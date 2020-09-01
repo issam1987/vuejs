@@ -1,2 +1,3 @@
 <?php
-ddddddddddddddddddddd
+echo 'test';
+?>
